@@ -38,7 +38,7 @@
         "defaults": 
         {
             "acrylicOpacity": 0.5,
-            "backgroundImage": "C:\\Users\\mario\\OneDrive\\Images\\fond_wt.png",
+            "backgroundImage": "C:\\Users\\Mika\\AppData\\Local\\Packages\\Microsoft.WindowsTerminal_8wekyb3d8bbwe\\LocalState\\images\\fond_wt.png",
             "backgroundImageAlignment": "bottomRight",
             "backgroundImageOpacity": 0.91000000000000003,
             "backgroundImageStretchMode": "uniformToFill",
@@ -47,10 +47,11 @@
             "experimental.retroTerminalEffect": false,
             "font": 
             {
-                "weight": "normal",
-                "face": "CaskaydiaCove NF"
+                "face": "CaskaydiaCove NF",
+                "weight": "normal"
             },
             "padding": "24",
+            "startingDirectory": null,
             "useAcrylic": true
         },
         "list": 
@@ -68,7 +69,7 @@
                 "name": "Invite de commandes"
             },
             {
-                "backgroundImage": "C:\\Users\\mario\\OneDrive\\Images\\fond_ubuntu.png",
+                "backgroundImage": "C:\\Users\\Mika\\AppData\\Local\\Packages\\Microsoft.WindowsTerminal_8wekyb3d8bbwe\\LocalState\\images\\fond_ubuntu.png",
                 "guid": "{2c4de342-38b7-51cf-b940-2309a097f518}",
                 "hidden": false,
                 "name": "Ubuntu",
@@ -81,10 +82,10 @@
                 "source": "Windows.Terminal.Azure"
             },
             {
-                "backgroundImage": "C:\\Users\\mario\\OneDrive\\Images\\fond_git_bash.png",
+                "backgroundImage": "C:\\Users\\Mika\\AppData\\Local\\Packages\\Microsoft.WindowsTerminal_8wekyb3d8bbwe\\LocalState\\images\\fond_git_bash.png",
                 "commandline": "D:\\Git\\bin\\sh.exe",
                 "guid": "{2350151b-ab05-4a61-807c-c266494f35a3}",
-                "icon": "C:\\Users\\mario\\OneDrive\\Images\\git-bash.ico",
+                "icon": "C:\\Users\\Mika\\AppData\\Local\\Packages\\Microsoft.WindowsTerminal_8wekyb3d8bbwe\\LocalState\\images\\git-bash.ico",
                 "name": "Git Bash",
                 "startingDirectory": "%USERPROFILE%"
             }
